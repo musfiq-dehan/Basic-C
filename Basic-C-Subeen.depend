@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574754582 source:h:\coding world\basic-c\basic-c-subeen\main.c
+
+1574754538 source:h:\coding world\basic-c\basic-c-subeen\hello.c
+	<stdio.h>
+
+1574841943 source:h:\coding world\basic-c\basic-c-subeen\002 int.c
+	<stdio.h>
+
+1574843658 source:h:\coding world\basic-c\basic-c-subeen\005 double.c
+	<stdio.h>
+
